@@ -1,0 +1,30 @@
+{
+    "name": "mp.maizs",
+    "description": "mp.maizs qq:7817170",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "app.js"
+    },
+    "dependencies": {
+        "express": "3.4.8",
+        "request": "~2.12",
+        "underscore": ">= 1.5",
+        "cheerio": "*",
+        "async": "*",
+        "mongodb": "*",
+        "mongoose": "*",
+        "wechat": "*",
+        "weixin-robot": "~0.4.0",
+        "debug": "~0.7.2",
+        "ejs": "*",
+        "xml2json": "*",
+        "needle": "*",
+        "bufferhelper": "*",
+        "iconv-lite": "*",
+        "follow-redirects": ""
+    },
+    "devDependencies": {
+        "mocha": "*"
+    }
+}
